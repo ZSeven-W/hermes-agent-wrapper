@@ -1,0 +1,12 @@
+{
+  "name": "hermes-agent-wrapper",
+  "version": "0.1.0",
+  "description": "Local-first Hermes memory, skills, and history wrapper MVP",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
